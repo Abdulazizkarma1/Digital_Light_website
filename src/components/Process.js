@@ -4,7 +4,7 @@ const Process = () => (
       <h3 className="text-3xl font-bold text-center">How it works</h3>
       <div className="mt-10 grid md:grid-cols-4 gap-6 text-sm">
         {[
-          { step: "1", title: "Quick chat", desc: "We understand your business & goals (10 mins)." },
+          { step: "1", title: "Quick chat", desc: "We understand your business & goals." },
           { step: "2", title: "On‑site visit", desc: "We capture photos and confirm pin location." },
           { step: "3", title: "Setup & verify", desc: "Profile cleanup + mini‑site built." },
           { step: "4", title: "Launch & reviews", desc: "Go live, collect 5★ reviews, track calls." },

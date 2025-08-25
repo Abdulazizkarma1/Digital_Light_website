@@ -8,7 +8,7 @@ const Header = () => (
         <div className="h-9 w-9 rounded-2xl bg-blue-600 grid place-items-center text-white">
           <Sparkles className="h-5 w-5" />
         </div>
-        <p className="font-semibold">Digital Light</p>
+        <p className="font-semibold">AdSal Biz Solutions</p>
       </div>
       <nav className="hidden md:flex items-center gap-6 text-sm">
         <a href="#features" className="hover:text-blue-600">Features</a>
