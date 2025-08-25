@@ -3,7 +3,7 @@ const SocialProof = () => (
     <div className="max-w-6xl mx-auto px-4">
       <div className="grid md:grid-cols-3 gap-4">
         {[
-          { label: "Local Searches / month", value: "12,000+" },
+          { label: "Local Searches / month", value: "1,000+" },
           { label: "Typical Profile Views in 90 days", value: "3k–10k" },
           { label: "Average Rating Target", value: "4.6★" },
         ].map((stat, i) => (

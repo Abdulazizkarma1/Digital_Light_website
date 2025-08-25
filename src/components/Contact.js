@@ -21,7 +21,7 @@ const Contact = () => {
           <div className="mt-6 flex items-center gap-4 text-blue-100">
             <Facebook className="h-5 w-5"/>
             <Instagram className="h-5 w-5"/>
-            <span className="text-xs">@digitallight_gh (optional handles)</span>
+            <span className="text-xs">@AdSalBizSolutions</span>
           </div>
         </div>
         <form onSubmit={(e)=>{e.preventDefault(); alert(`Thanks! We'll contact you at ${email}`);}} className="rounded-2xl bg-white/10 p-6 ring-1 ring-white/20">
